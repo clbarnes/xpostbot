@@ -1,0 +1,6 @@
+{
+  "user_agent": "user-agent-string",
+  "source_subreddit": "source_sub",
+  "target_subreddit": "target_sub",
+  "filter": "a regular expression"
+}

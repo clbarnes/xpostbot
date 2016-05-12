@@ -1,0 +1,5 @@
+{
+  "client-id": "your_client_ID",
+  "client-secret": "your_client_secret",
+  "redirect_uri": "http://your.redirect.uri"
+}
